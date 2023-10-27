@@ -14,10 +14,17 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   modules: ['@nuxt/content'],
   css: ['~/assets/css/main.css'],
+  ssr: false,
   postcss: {
     plugins: {
       tailwindcss: {},
       autoprefixer: {},
+    },
+  },
+  content: {
+    documentDriven: true,
+    experimental: {
+      clientDB: true,
     },
   },
 })
