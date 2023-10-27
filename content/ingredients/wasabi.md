@@ -36,6 +36,6 @@ Here are some of our suggested recipes that star wasabi:
 
 ## Pairings
 
-Wasabi goes well with ingredients like soy sauce, ginger, sesame seeds, and most vitally, [Sushi Rice](https://www.worldgourmet.com/sushi_rice_spotlight_url). The mild, slightly sweet flavor of sushi rice perfectly balances the potent hotness of Wasabi.
+Wasabi goes well with ingredients like soy sauce, ginger, sesame seeds, and most vitally, [Basmati Rice](/ingredients/basmati-rice). The mild, slightly sweet flavor of rice perfectly balances the potent hotness of Wasabi.
 
 So, set off firecrackers on your taste buds! Dive into the intense and invigorating world of Wasabi and let your culinary creativity soar!

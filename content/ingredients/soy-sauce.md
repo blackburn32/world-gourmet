@@ -12,9 +12,9 @@ Soy sauce is a condiment derived from fermented soybeans mixed with roasted grai
 
 There are two main categories of Soy Sauce:
 
-1. **Light Soy Sauce** - It is a thin, light-brown sauce that imparts a salty flavor, often used in steamed and stir-fried dishes. [See Light Soy Sauce](https://worldgourmet.com/soysauce/lightsoysauce)
+1. **Light Soy Sauce** - It is a thin, light-brown sauce that imparts a salty flavor, often used in steamed and stir-fried dishes.
 
-2. **Dark Soy Sauce** - This variant is thicker, less salty and boasts a deep, sweet flavor because of the addition of caramel and, occasionally, molasses. It is mostly used in cooking and marinating. [See Dark Soy Sauce](https://worldgourmet.com/soysauce/darksoysauce)
+2. **Dark Soy Sauce** - This variant is thicker, less salty and boasts a deep, sweet flavor because of the addition of caramel and, occasionally, molasses. It is mostly used in cooking and marinating.
 
 ## Benefits of Soy Sauce
 
@@ -32,7 +32,7 @@ Whether you are making a quick stir-fry or a slow-cooked stew, soy sauce can tra
 2. [Soy Sauce Marinated Steak](/recipes/steak-soy-sauce)
 3. [Homemade Teriyaki Sauce](/recipes/teriyaki-sauce)
 
-You may have noticed that [Olive Oil](/ingredients/olive-oil) is a popular choice in many countries for its flavor and health benefits. Explore our [Olive Oil](https://worldgourmet.com/ingredient/oliveoil) page and dive into recipes that combine these two powerhouse ingredients!
+You may have noticed that [Olive Oil](/ingredients/olive-oil) is a popular choice in many countries for its flavor and health benefits. Explore our [Olive Oil](/ingredient/olive-oil) page and dive into recipes that combine these two powerhouse ingredients!
 
 ---
 

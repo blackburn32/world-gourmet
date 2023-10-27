@@ -6,13 +6,13 @@ Unleash the globetrotting gourmet in you with our collection of markdown recipes
 
 ---
 
-### **Classic French Ratatouille :france:**
+### **Classic French Ratatouille**
 
 A vegetable tour de force, Ratatouille is a celebration of fresh, healthy ingredients combined to create a dish packed with flavors.
 
 ![French Ratatouille](https://source.unsplash.com/random/?ratatouille)
 
-Click [here](#) to check out the full recipe with detailed instructions.
+Click [here](/recipes/ratatouille) to check out the full recipe with detailed instructions.
 
 ---
 

@@ -15,22 +15,18 @@ Chilli peppers, part of the capsicum family, are one of the most cherished and u
 ## Origins and History
 
 With a history going back more than 7500 years, chilli peppers were first cultivated in central-east Mexico before making their fiery journey across countries and continents.
-[**Read More**](https://example.com/chilli_history)
 
 ## Types of Chilli Peppers
 
 From _jalapeños_ to _habaneros_, _poblano_, and _cayenne_, the world of chilli peppers is diverse and extensive.
-[**Explore More**](https://example.com/types_of_chili)
 
 ## Health Benefits
 
 Not just a spice powerhouse, chilli peppers are packed with health benefits too. They are rich in various vitamins and minerals but usually consumed in small amounts so do not provide significant amounts of these nutrients. However, they are very high in Vitamin C.
-[**Discover More**](https://example.com/chili_benefits)
 
 ## How to Store
 
 Fresh chillies can be stored in the refrigerator while dried ones should be kept in airtight containers in a cool, dark place. Whole fresh peppers can be frozen.
-[**Learn More**](https://example.com/store_chili)
 
 ## Recipes
 
@@ -45,4 +41,4 @@ Experience the fiery delight in your dishes with these global recipes.
 3. **Mexican Tacos El Pastor** - Chili peppers, pineapple, and pork come together in a lip-smacking Mexican street-food favourite.
    [**Check It Out**](/recipes/tacos-el-pastor)
 
-Did you know olive oil can be an excellent vehicle to carry the flavour of chillies? Check out our [**olive oil**](https://example.com/ingredient_spotlight/olive_oil) spotlight and corresponding Mediterranean recipes to add more depth to your dishes.
+Did you know olive oil can be an excellent vehicle to carry the flavour of chillies? Check out our [**olive oil**](/ingredients/olive-oil) spotlight and corresponding Mediterranean recipes to add more depth to your dishes.

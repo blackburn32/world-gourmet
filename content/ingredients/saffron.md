@@ -37,7 +37,7 @@ Here are some of our curated recipes that use saffron:
 
 ## Pairings
 
-Saffron pairs well with ingredients like garlic, onions, tomatoes, white wine, and most importantly, [Olive Oil](https://www.worldgourmet.com/olive_oil_spotlight_url). It's almost magical how Olive oil enhances the aroma and unleashes the full flavor of Saffron.
+Saffron pairs well with ingredients like garlic, onions, tomatoes, white wine, and most importantly, [Olive Oil](/ingredients/olive-oil). It's almost magical how Olive oil enhances the aroma and unleashes the full flavor of Saffron.
 
 So, what are you waiting for? Dive into the rich and enchanting world of Saffron and let your culinary imagination fly!
 

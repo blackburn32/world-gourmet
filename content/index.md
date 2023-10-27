@@ -2,6 +2,8 @@
 
 Welcome to your one-stop culinary destination! World Gourmet is a markdown-based food blog specializing in dishes from all corners of the world. Here, you'll find recipes, ingredient breakdowns, and taste-tripping facts that take you on a journey through the delectable diversity of world cuisines.
 
+![Food](https://source.unsplash.com/random/?food)
+
 ## What We Offer :sparkles:
 
 Our blog is aimed at the gastronomic explorer within you, and provides content in the following categories:
