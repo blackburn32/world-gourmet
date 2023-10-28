@@ -1,6 +1,8 @@
 # :world_map: World Gourmet :fork_and_knife:
 
-Welcome to your one-stop culinary destination! World Gourmet is a markdown-based food blog specializing in dishes from all corners of the world. Here, you'll find recipes, ingredient breakdowns, and taste-tripping facts that take you on a journey through the delectable diversity of world cuisines.
+Welcome to your one-stop culinary destination! World Gourmet is a markdown-based food blog specializing in dishes from all corners of the world.
+The entire blog is AI-generated, so partake of these creations at your own peril!
+Here, you'll find recipes, ingredient breakdowns, and taste-tripping facts that take you on a journey through the delectable diversity of world cuisines.
 
 ![Food](https://source.unsplash.com/random/?food)
 
@@ -18,7 +20,8 @@ Here we delve into the science, history, and cultural significance of ingredient
 
 ## Get Involved :handshake:
 
-We believe the magic of food gets amplified when shared. We'd love to hear about your own recipes, cooking experiences, and cultural food facts. Share your stories with us and become a part of our global gastronomic community.
+We believe the magic of food gets amplified when shared. We'd love to hear about your own recipes, cooking experiences, and cultural food facts. 
+Share your stories with us and become a part of our global gastronomic community.
 
 ---
 

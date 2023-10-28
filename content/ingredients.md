@@ -8,7 +8,9 @@ Discover the world of ingredients, one spice, herb or vegetable at a time. Here,
 
 ### SAFFRON :iran:
 
-Saffron, harvested from the fall-flowering plant *Crocus sativus*, is a priceless thread in the culinary world. Native to Greece and Southwest Asia, it is now cultivated globally. It takes an outstanding ~75,000 saffron blossoms to produce a single pound of saffron spice!
+Saffron, harvested from the fall-flowering plant *Crocus sativus*, is a priceless thread in the culinary world. 
+Native to Greece and Southwest Asia, it is now cultivated globally. 
+It takes an outstanding ~75,000 saffron blossoms to produce a single pound of saffron spice!
 
 [Read more about Saffron...](/ingredients/saffron)
 
