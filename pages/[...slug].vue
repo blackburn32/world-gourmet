@@ -2,7 +2,7 @@
   <main class="flex flex-col max-h-screen">
       <Header />
       <div class="flex flex-col w-full overflow-y-scroll items-center">
-          <ContentDoc class="prose my-10"/>
+          <ContentDoc class="prose my-10 mx-4"/>
       </div>
   </main>
 </template>
