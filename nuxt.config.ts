@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     },
   },
   devtools: { enabled: false },
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/content', 'nuxt-icon'],
   css: ['~/assets/css/main.css'],
   ssr: false,
   postcss: {
